@@ -46,5 +46,6 @@ If you have any questions or suggestions, feel free to connect with me on [Linke
 
 ### Dashboard
 
-![first Dashboard in power bi]()
+![Power BI Desktop 08-04-2025 00_22_44](https://github.com/user-attachments/assets/a1cbf9f2-31c1-4391-a93f-fa449ca34fc8)
+
 
