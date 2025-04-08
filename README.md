@@ -44,5 +44,7 @@ This dashboard project was created to demonstrate proficiency in Power BI for an
 
 If you have any questions or suggestions, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sambhav-seth-0a9143288/).
 
----
+### Dashboard
+
+![first Dashboard in power bi]()
 
